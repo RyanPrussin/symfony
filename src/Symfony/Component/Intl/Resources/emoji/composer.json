@@ -1,6 +1,6 @@
 {
     "name": "symfony/intl-emoji",
-    "description": "Add Unicode Common Locale Data Repository as dependency for the Emoji Transliterator Builder",
+    "description": "Import Unicode Common Locale Data Repository and dependencies for the Emoji Transliterator Builder",
     "license": "Unicode-DFS-2016",
     "repositories": [
         {
