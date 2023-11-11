@@ -21,6 +21,6 @@
         "symfony/filesystem": "^6",
         "symfony/finder": "^6",
         "symfony/var-exporter": "^6",
-        "unicode-org/cldr": "*"
+        "unicode-org/cldr": "^2022"
     }
 }
